@@ -1,6 +1,6 @@
 # 🚀 My Journey from Electrical Engineering to programming
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=It+does+not+matter+how+slowly+you+go;as+long+as+you+do+not+stop+Confucius)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=50&lines=It+does+not+matter+how+slowly+you+go;as+long+as+you+do+not+stop+Confucius)](https://git.io/typing-svg)
 ---
 
 👋 Hello! I'm **Robel**, a proud graduate of the **Eritrean Institute of Technology**, where I majored in **Electrical and Electronics Engineering**. My passion for programming ignited during my academic journey—especially while working on my senior project, which heavily involved code. I also took a few introductory courses that further sparked my curiosity.
