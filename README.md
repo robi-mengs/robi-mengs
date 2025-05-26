@@ -1,6 +1,28 @@
 # 🚀 My Journey from Electrical Engineering to Programming
-
-> _"The journey of a thousand lines of code begins with a single bug."_  
+  <TypeAnimation
+        splitter={(str) => str.split(/(?= )/)} // 'Lorem ipsum dolor' -> ['Lorem', ' ipsum', ' dolor']
+        sequence={[
+          ' “Believe in yourself and all that you are.  
+> Know that there is something inside you that is greater than any obstacle.  
+> Keep your eyes on the horizon and your heart full of hope,  
+> because the future is not something to fear but a landscape of endless possibilities.  
+> Every step you take forward, no matter how small,  
+> brings new opportunities that are waiting to be discovered.  
+> Trust the process, embrace the unknown,  
+> and know that your courage to keep going  
+> is the key that will unlock the doors to your greatest potential.”',
+          3000,
+          '',
+        ]}
+        speed={{ type: 'keyStrokeDelayInMs', value: 30 }}
+        omitDeletionAnimation={true}
+        style={{ fontSize: '1em', display: 'block', minHeight: '200px' }}
+        repeat={Infinity}
+      />
+> _">
+>
+> — *Anonymous*
+"_  
 > – Someone who’s been there
 
 ---
