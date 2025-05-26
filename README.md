@@ -1,6 +1,6 @@
 # 🚀 My Journey from Electrical Engineering to programming
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines="It+does+not+matter+how+slowly+you+go+as+long+as+you+do+not+stop+.+"
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=It+does+not+matter+how+slowly+you+go+as+long+as+you+do+not+stop+.+
 +—+Confucius)](https://git.io/typing-svg)
 ---
 
