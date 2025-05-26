@@ -19,7 +19,7 @@ This year-long journey sharpened more than just my technical skills—it shaped 
 ## 💻 Technologies I Work With
 
 ### **Languages & Databases**
-- Python 🐍 &nbsp; • &nbsp; JavaScript ⚡ &nbsp; • &nbsp; TypeScript 🟦  
+- Python 🐍 &nbsp; • &nbsp; JavaScript ⚡ &nbsp;  
 - SQL 🗃️ &nbsp; • &nbsp; MongoDB 🍃  
 
 ### **Development Tools**
@@ -44,8 +44,7 @@ This year-long journey sharpened more than just my technical skills—it shaped 
 ---
 
 ## 🚀 What I Offer
-
-- Strong foundation in software fundamentals  
+ 
 - Proven self-learning and time management skills  
 - Experience applying engineering discipline to software problem-solving  
 - Eagerness to grow in collaborative, fast-paced environments  
@@ -55,4 +54,4 @@ This year-long journey sharpened more than just my technical skills—it shaped 
 > _“I didn’t just learn programming—I built grit, structure, and vision into my journey.”_  
 > _Now, I’m excited to bring that same mindset to a real-world development team._
 
-📩 **Let’s connect!** I'm open to opportunities in software development, data analysis, or backend engineering.
+📩 **Let’s connect!** I'm open to opportunities in Data Science and Analysis.
