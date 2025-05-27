@@ -1,19 +1,19 @@
-# 🚀 From Electrical Engineering to Software — A Self-Made Developer
+# 🚀 From Electrical Engineering to Self-Made Python Programmer on the Path to Data Science
 
-Hi, I’m **Robel** — an **Electrical and Electronics Engineering** graduate from the **Eritrean Institute of Technology**, now a dedicated **software developer** with a strong foundation in problem-solving and real-world application of code.
+Hi, I’m **Robel** — an **Electrical and Electronics Engineering** graduate from the **Eritrean Institute of Technology**, now a self-made **Python programmer** pursuing a career in **data science** and software development.
 
-For my senior project, I designed and built a **computer-controlled underwater vehicle**, using **Python** to handle sensor integration, motor control, and data logging. That hands-on experience opened my eyes to the power of programming — and I’ve been hooked ever since.
+For my senior project, I designed and built a **computer-controlled underwater vehicle**, using **Python** to handle sensor integration, motor control, and data logging. That hands-on experience sparked a passion for programming — and I've been immersed in it ever since.
 
 ---
 
 ### 💡 Driven by Curiosity, Built Through Discipline
 
-Teaching myself advanced programming concepts after graduation, I leveraged books, offline tools, and continuous practice to deepen my skills.
+After graduation, I continued to deepen my skills independently — using books, offline tools, and consistent hands-on practice.
 
 **What I bring:**
-- 🔹 Strong engineering fundamentals blended with coding expertise  
-- 🔹 Proven ability to learn independently and apply knowledge practically  
-- 🔹 A mindset focused on building and delivering real solutions  
+- 🔹 Strong engineering mindset blended with real coding experience  
+- 🔹 Proven self-learning ability and perseverance  
+- 🔹 Passion for solving problems with data and software  
 
 ---
 
@@ -45,7 +45,7 @@ Teaching myself advanced programming concepts after graduation, I leveraged book
 
 ## ✅ Ready to Contribute
 
-I'm eager to join a **collaborative, growth-oriented team**, where I can apply my technical skills and hands-on mindset to solve meaningful challenges in **software development** or **data science**.
+I'm looking to join a **collaborative, learning-focused team**, where I can grow and contribute as a developer with a strong interest in **data science**, **automation**, and **analytics**.
 
 > _“I didn’t just learn Python—I used it to build real systems, and it changed how I think and create.”_
 
