@@ -1,6 +1,6 @@
 # 🚀 From Electrical Engineering to Self-Made Python Programmer on the Path to Data Science
 
-Hi, I’m **Robel** — an **Electrical and Electronics Engineering** graduate from the **Eritrean Institute of Technology**, now a self-made **Python programmer** pursuing a career in **data science** and software development.
+Hi, I’m **Robel** — an **Electrical and Electronics Engineering** graduate from the **Eritrean Institute of Technology**, now a self-made **Python programmer** pursuing a career in **data science**.
 
 For my senior project, I designed and built a **computer-controlled underwater vehicle**, using **Python** to handle sensor integration, motor control, and data logging. That hands-on experience sparked a passion for programming — and I've been immersed in it ever since.
 
